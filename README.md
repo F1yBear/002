@@ -1,5 +1,5 @@
 ## Ubuntu Ubuntu 18.04 LTS U盘安装图文教程
-### 一、 Ubuntu 每年发布两个版本，目前最新正式版版本也升到了 16.04。
+### 一、 Ubuntu 每年发布两个版本，目前最新正式版版本也升到了 18.04
 >下载地址为：https://www.ubuntu.com/download/desktop
 ###  二、 U盘操作系统安装工具- Universal USB Installer
 > 下载地址： http://universal-usb-installer.en.softonic.com/
