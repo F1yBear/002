@@ -7,9 +7,9 @@
 2.  在Step 2选择 你的Ubuntu镜像.iso文件文件
 3.  在Step 3选择 U盘，然后点击 Create
 4.  当把Ubuntu镜像.iso 文件全部写入U盘后，Ubuntu U盘启动盘就做成功了。
-> ![图一]( ./img/stmp1.png)  
-> ![图二]( ./img/stmp2.png)  
-> ![图三]( ./img/stmp3.png)  
+![图一]( ./img/stmp1.png)  
+![图二]( ./img/stmp2.png)  
+![图三]( ./img/stmp3.png)  
 ### 三、 Ubuntu U盘实现U启动安装
 ```$xslt
 注意事项：
